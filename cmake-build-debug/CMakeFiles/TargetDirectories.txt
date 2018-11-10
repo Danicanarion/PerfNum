@@ -1,0 +1,3 @@
+/home/Dadepe/CLionProjects/PerfNum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Dadepe/CLionProjects/PerfNum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Dadepe/CLionProjects/PerfNum/cmake-build-debug/CMakeFiles/PerfNum.dir
